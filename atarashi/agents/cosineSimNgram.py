@@ -31,7 +31,7 @@ from atarashi.agents.atarashiAgent import AtarashiAgent
 from atarashi.libs.initialmatch import initial_match
 from atarashi.libs.utils import wordFrequency, cosine_similarity
 
-__author__ = "Aman Jain"
+__author__ = "sahitya"
 __email__ = "amanjain5221@gmail.com"
 
 
